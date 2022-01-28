@@ -1,12 +1,16 @@
 # Vue 3 + Typescript + Vite 2 + Element Plus
 
-[![Author](https://img.shields.io/badge/author-XPoet-orange.svg)]()
-[![License](https://img.shields.io/github/license/XPoet/vite-vue3-starter.svg)]()
-[![Stars](https://img.shields.io/github/stars/XPoet/vite-vue3-starter)]()
-[![Deploy](https://github.com/XPoet/vite-vue3-starter/workflows/deploy/badge.svg)]()
-[![JavaScript Style Guide](https://img.shields.io/badge/code_style-Airbnb-hotpink.svg)]()
+[![Author](https://img.shields.io/badge/author-XPoet-orange.svg)](https://github.com/machao07)
+[![License](https://img.shields.io/github/license/XPoet/vite-vue3-starter.svg)](https://github.com/machao07/vue3-admin/blob/master/LICENSE)
+[![Stars](https://img.shields.io/github/stars/XPoet/vite-vue3-starter)](https://github.com/machao07/vue3-admin)
+[![Deploy](https://github.com/XPoet/vite-vue3-starter/workflows/deploy/badge.svg)](https://github.com/machao07/vue3-admin/blob/main/.github/workflows/main.yml)
+<!-- [![JavaScript Style Guide](https://img.shields.io/badge/code_style-Airbnb-hotpink.svg)]() -->
 
 > 一套完美集成 Vue 3.x  + TypeScript + Vite 2.x + Scss + Vue Router4 + Vuex4 + Axios + ESLint 等健壮的前端快速开发模板
+
+## 相关联系方式
+
+1️⃣&nbsp;[CSDN](https://blog.csdn.net/weixin_43924228)&emsp;2️⃣&nbsp;[Machao's Blog](https://machao07.github.io/)&emsp;3️⃣&nbsp;[ZCOOL站酷](https://machao07.zcool.com.cn/)
 
 ## 技术栈
 
