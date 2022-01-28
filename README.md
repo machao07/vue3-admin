@@ -1,7 +1,7 @@
 # Vue 3 + Typescript + Vite 2 + Element Plus
 
 [![Author](https://img.shields.io/badge/author-XPoet-orange.svg)](https://github.com/machao07)
-[![License](https://img.shields.io/github/license/XPoet/vite-vue3-starter.svg)](https://github.com/machao07/vue3-admin/blob/master/LICENSE)
+[![License](https://img.shields.io/github/license/XPoet/vite-vue3-starter.svg)](https://github.com/machao07/vue3-admin)
 [![Stars](https://img.shields.io/github/stars/XPoet/vite-vue3-starter)](https://github.com/machao07/vue3-admin)
 [![Deploy](https://github.com/XPoet/vite-vue3-starter/workflows/deploy/badge.svg)](https://github.com/machao07/vue3-admin/blob/main/.github/workflows/main.yml)
 <!-- [![JavaScript Style Guide](https://img.shields.io/badge/code_style-Airbnb-hotpink.svg)]() -->
